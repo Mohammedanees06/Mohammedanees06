@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I’m currently interning in Full Stack Web Development.<br>Looking to collaborate on mobile app and IoT projects.<br>Seeking help with advanced algorithms.<br>Currently learning advanced full stack concepts.<br>Fun fact: I’ve organized and participated in fashion shows.
+<br>I’m currently interning in Full Stack Web Development.<br>Looking to collaborate on mobile app and IoT projects.<br>Seeking help with advanced algorithms.<br>Currently learning advanced full stack concepts.<br>Fun fact: I’ve organized and participated in fashion shows. 
 
 
 ## 🌐 Socials:
