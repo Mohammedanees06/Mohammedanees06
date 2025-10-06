@@ -129,10 +129,10 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/mohammedanees06/project1">
+  <a href="https://github.com/Mohammedanees06/FreelanceHub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=project1&theme=midnight-purple&hide_border=true" />
   </a>
-  <a href="https://github.com/mohammedanees06/project2">
+  <a href="[https://github.com/mohammedanees06/project2](https://github.com/Mohammedanees06/IntervueAI)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=project2&theme=midnight-purple&hide_border=true" />
   </a>
 </div>
