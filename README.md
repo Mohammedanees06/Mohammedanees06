@@ -46,7 +46,7 @@
 
 ### Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,c,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,html,css" />
 </div>
 
 ### Frontend Development
@@ -61,7 +61,7 @@
 
 ### Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,docker,jenkins" />
 </div>
 
 <br/>
