@@ -1,50 +1,156 @@
-# 💫 About Me:
-Currently focused on Full Stack Web Development (MERN).  
-🔧 Building Web, Mobile, and IoT-based projects with real-world applications.  
-📈 Learning advanced algorithms and full-stack concepts to deepen my problem-solving skills.  
-🎨 Fun fact: I’ve organized and participated in fashion shows.  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mohammed+Anees+👋;Full+Stack+Developer+🚀;MERN+Stack+Enthusiast+💻" alt="Typing SVG" />
+</div>
 
----
+<h3 align="center">A passionate Full Stack Developer crafting digital experiences with modern web technologies</h3>
 
-## 🌐 Socials:
-[![LinkedIn – Mohammed Anees | Full Stack Developer](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedaneesdev) 
-<br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://mohammedanees.netlify.app)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:mohammedanees0606@gmail.com)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammedanees06&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</div>
 
----
+<br/>
 
-# 💻 Tech Stack
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-007FFF?style=for-the-badge&logo=ajax&logoColor=white)
+## 🎯 About Me
 
----
+- 🔭 Currently building **Full Stack Web Applications** with MERN Stack
+- 🌱 Deep diving into **Advanced Algorithms**, **System Design** & **Cloud Architecture**
+- 💡 Passionate about creating **Web, Mobile, and IoT** solutions that solve real-world problems
+- 🎨 Fun fact: I blend creativity with code - organized and participated in **fashion shows**!
+- 📫 Reach me at **mohammedanees0606@gmail.com**
+- ⚡ **"Code is poetry written in logic"**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohammedanees06&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedanees06&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedanees06&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br clear="both">
 
----
+## 🌐 Connect with Me
 
-[![](https://visitcount.itsvg.in/api?id=mohammedanees06&icon=4&color=3)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://linkedin.com/in/mohammedaneesdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mohammedanees.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:mohammedanees0606@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mohammedanees06" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 💻 Tech Stack & Tools
+
+### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,php,html,css" />
+</div>
+
+### Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,jquery,vite" />
+</div>
+
+### Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</div>
+
+### Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <br/><br/>
+      <b>Building scalable full-stack applications</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <br/><br/>
+      <b>Learning distributed systems & architecture patterns</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/DSA-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white" />
+      <br/><br/>
+      <b>Mastering algorithms & problem-solving</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/IoT_Projects-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+      <br/><br/>
+      <b>Creating smart connected devices</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mohammedanees06&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" alt="Mohammed Anees github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedanees06&layout=compact&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Mohammed Anees top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedanees06&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="Mohammed Anees streak stats" />
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedanees06&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedanees06&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/mohammedanees06/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=project1&theme=midnight-purple&hide_border=true" />
+  </a>
+  <a href="https://github.com/mohammedanees06/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=project2&theme=midnight-purple&hide_border=true" />
+  </a>
+</div>
+
+<br/>
+
+## 💭 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
+<div align="center">
+  <b>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</b>
+</div>
