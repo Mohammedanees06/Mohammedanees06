@@ -135,7 +135,14 @@
   <a href="https://github.com/Mohammedanees06/IntervueAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=IntervueAI&theme=midnight-purple&hide_border=true" />
   </a>
+  <a href="https://github.com/Mohammedanees06/BookBazaar-MERN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=BookBazaar-MERN&theme=midnight-purple&hide_border=true" />
+  </a>
+  <a href="https://github.com/Mohammedanees06/AI-Code-Review-Studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=AI-Code-Review-Studio&theme=midnight-purple&hide_border=true" />
+  </a>
 </div>
+
 
 <br/>
 
