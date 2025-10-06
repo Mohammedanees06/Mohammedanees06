@@ -130,10 +130,10 @@
 
 <div align="center">
   <a href="https://github.com/Mohammedanees06/FreelanceHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=project1&theme=midnight-purple&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=FreelanceHub&theme=midnight-purple&hide_border=true" />
   </a>
-  <a href="[https://github.com/mohammedanees06/project2](https://github.com/Mohammedanees06/IntervueAI)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=project2&theme=midnight-purple&hide_border=true" />
+  <a href="https://github.com/Mohammedanees06/IntervueAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=IntervueAI&theme=midnight-purple&hide_border=true" />
   </a>
 </div>
 
