@@ -1,164 +1,179 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mohammed+Anees+👋;Full+Stack+Developer+🚀;MERN+Stack+Developer+💻" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=200&section=header&text=Mohammed%20Anees&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=18&descAlignY=60&descColor=c4b5fd" alt="Header" />
 </div>
 
-<h3 align="center">A passionate Full Stack Developer crafting digital experiences with modern web technologies</h3>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedanees06&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=640&lines=MERN+Stack+Developer;Building+scalable+web+applications;Exploring+system+design+and+cloud+architecture" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-## 🎯 About Me
-
-- 🔭 Currently building **Full Stack Web Applications** with MERN Stack
-- 🌱 Deep diving into **Advanced Algorithms**, **System Design** & **Cloud Architecture**
-- 💡 Passionate about creating **Web, Mobile, and IoT** solutions that solve real-world problems
-- 🎨 Fun fact: I blend creativity with code - organized and participated in **fashion shows**!
-- 📫 Reach me at **mohammedanees0606@gmail.com**
-- 🌐 https://mohammedanees.netlify.app
-- ⚡ **"Code is poetry written in logic"**
-
-<br clear="both">
-
-## 🌐 Connect with Me
-
 <div align="center">
-  <a href="https://linkedin.com/in/mohammedaneesdev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/mohammedaneesdev">
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
   </a>
-  <a href="https://mohammedanees.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://mohammedanees.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="Portfolio" />
   </a>
   <a href="mailto:mohammedanees0606@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" />
   </a>
-  <a href="https://github.com/mohammedanees06" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/mohammedanees06">
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=mohammedanees06&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 </div>
 
 <br/>
 
-## 💻 Tech Stack & Tools
+<!-- ===================== ABOUT ===================== -->
+## About
 
-### Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,c,html,css" />
-</div>
+I'm a Full Stack Developer focused on building reliable, scalable, and user-centric web applications. I enjoy working across the stack, from responsive interfaces to backend services, and creating solutions for web, mobile, and IoT platforms.
 
-### Frontend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,jquery,vite" />
-</div>
-
-### Backend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</div>
-
-### Tools & Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,docker,jenkins" />
-</div>
-
-<br/>
-
-## 🎯 Current Focus
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <br/><br/>
-      <b>Building scalable full-stack applications</b>
+    <td width="200"><b>Role</b></td>
+    <td>Full Stack Developer</td>
+  </tr>
+  <tr>
+    <td><b>Currently Building</b></td>
+    <td>Full-stack applications with the MERN stack</td>
+  </tr>
+  <tr>
+    <td><b>Currently Learning</b></td>
+    <td>Advanced Algorithms, System Design, Cloud Architecture</td>
+  </tr>
+  <tr>
+    <td><b>Interests</b></td>
+    <td>Web, Mobile and IoT solutions</td>
+  </tr>
+  <tr>
+    <td><b>Beyond Code</b></td>
+    <td>Organized and participated in fashion shows</td>
+  </tr>
+  <tr>
+    <td><b>Email</b></td>
+    <td><a href="mailto:mohammedanees0606@gmail.com">mohammedanees0606@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><b>Portfolio</b></td>
+    <td><a href="https://mohammedanees.netlify.app">mohammedanees.netlify.app</a></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+## Tech Stack
+
+<table>
+  <tr>
+    <td width="200"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,py,java,c,html,css&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,jquery,vite&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend & Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,docker,jenkins&theme=dark" alt="Tools" /></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== FOCUS ===================== -->
+## Current Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Full Stack Development</h4>
+      Building scalable, production-ready applications with the MERN stack.
     </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white" />
-      <br/><br/>
-      <b>Learning distributed systems & architecture patterns</b>
+    <td width="50%" valign="top">
+      <h4>System Design</h4>
+      Studying distributed systems and architecture patterns.
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/DSA-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white" />
-      <br/><br/>
-      <b>Mastering algorithms & problem-solving</b>
+    <td width="50%" valign="top">
+      <h4>Data Structures & Algorithms</h4>
+      Strengthening problem-solving and algorithmic thinking.
     </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/IoT_Projects-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-      <br/><br/>
-      <b>Creating smart connected devices</b>
+    <td width="50%" valign="top">
+      <h4>IoT Solutions</h4>
+      Developing smart, connected devices and integrations.
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 📊 GitHub Analytics
+<!-- ===================== PROJECTS ===================== -->
+## Featured Projects
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mohammedanees06&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" alt="Mohammed Anees github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedanees06&layout=compact&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Mohammed Anees top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedanees06&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="Mohammed Anees streak stats" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedanees06&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedanees06&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Mohammedanees06/FreelanceHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=FreelanceHub&theme=midnight-purple&hide_border=true" />
-  </a>
-  <a href="https://github.com/Mohammedanees06/IntervueAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=IntervueAI&theme=midnight-purple&hide_border=true" />
-  </a>
-  <a href="https://github.com/Mohammedanees06/BookBazaar-MERN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=BookBazaar-MERN&theme=midnight-purple&hide_border=true" />
-  </a>
-  <a href="https://github.com/Mohammedanees06/AI-Code-Review-Studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=AI-Code-Review-Studio&theme=midnight-purple&hide_border=true" />
-  </a>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Mohammedanees06/FreelanceHub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=FreelanceHub&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA&bg_color=0d1117&border_color=30363d&border_radius=8" alt="FreelanceHub" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mohammedanees06/IntervueAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=IntervueAI&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA&bg_color=0d1117&border_color=30363d&border_radius=8" alt="IntervueAI" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Mohammedanees06/BookBazaar-MERN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=BookBazaar-MERN&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA&bg_color=0d1117&border_color=30363d&border_radius=8" alt="BookBazaar-MERN" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mohammedanees06/AI-Code-Review-Studio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedanees06&repo=AI-Code-Review-Studio&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA&bg_color=0d1117&border_color=30363d&border_radius=8" alt="AI-Code-Review-Studio" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## 💭 Dev Quote
+<!-- ===================== ANALYTICS ===================== -->
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammedanees06&show_icons=true&count_private=true&rank_icon=github&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=8" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedanees06&layout=compact&langs_count=8&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=8" alt="Top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedanees06&theme=dark&background=0d1117&border=30363d&ring=A78BFA&fire=A78BFA&currStreakNum=c9d1d9&currStreakLabel=A78BFA&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border_radius=8" alt="Streak stats" />
 </div>
 
+<br/>
+
 <div align="center">
-  <b>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedanees06&bg_color=0d1117&color=A78BFA&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Contribution graph" />
 </div>
+
+<br/>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+  <sub>Open to collaboration, opportunities, and meaningful conversations about technology.</sub>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=120&section=footer" alt="Footer" />
